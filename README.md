@@ -1,6 +1,6 @@
 - - 
 
-# minas-in-tech
+ <img src="https://media.discordapp.net/attachments/1091365258335113367/1091796460745543680/minas-in-tech-banner.gif?width=1024&height=256"/>
 
 <div align="center">
 
