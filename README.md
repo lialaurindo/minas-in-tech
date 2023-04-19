@@ -21,7 +21,6 @@
 Nesta etapa aplicamos o aprendizado sobre o <b>React</b> e suas principais funcionalidades junto com o <b>TypeScript</b>.</b> <br>Para personalizar o tema do projeto, inclui a marca do Minas In Tech como base para a criação da aplicação, de modo que pudesse em conjunto com a parte técnica, pensar em outros detalhes criativos e incluir um propósito que estivesse relacionado a mim e a minha realidade como mulher em tecnologia, por isso este blog foi pensado em transmitir assuntos relacionados a esta jornada. A ideia é um ter um espaço, parecido com um fórum, onde as usuárias pudessem incluir dúvidas reais de carreira e que outras usuárias pudessem contribuir nestas discussões, dentro de uma plataforma segura.
 </p>
 
-<br>
 
 ## 🟣🟡 Etapas de Desenvolvimento ## 
 ### Front-End:
@@ -33,6 +32,10 @@ Nesta etapa aplicamos o aprendizado sobre o <b>React</b> e suas principais funci
 - [ ] Task 5
 
 <br>
+
+### 📂 Back-End:
+<p align="left">
+    <a href="https://github.com/lialaurindo/projeto-blog-pessoal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lialaurindo&repo=projeto-blog-pessoal&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 <div id='sobre-mim'/> 
 <h2 align="right"> Sobre mim⠀</h2>
