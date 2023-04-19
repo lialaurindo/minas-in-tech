@@ -27,9 +27,9 @@ Nesta etapa aplicamos o aprendizado sobre o <b>React</b> e suas principais funci
 ### Front-End:
 
 - [x] Cria estrutura React com Vite;
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
+- [ ] Modela componentes com Material UI
+- [ ] Inserção das rotas para as páginas com react-router 
+- [ ] Integra as requisições para autentição de Login e para Cadastro de Usuário com Axios
 - [ ] Task 5
 
 <br>
